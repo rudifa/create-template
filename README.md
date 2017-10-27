@@ -20,3 +20,11 @@ http://requirejs.org/docs/optimization.html
 
 For more information on using requirejs:
 http://requirejs.org/docs/api.html
+
+@rudifa:
+
+Forked from https://github.com/volojs/create-template.git
+to https://github.com/rudifa/create-template.git
+
+Adding examples of use of requirejs.
+
